@@ -2,3 +2,4 @@ XClove Resolusi
 -Awali setiap langkahmu dengan Basmalah.
 -Memperbaiki error yang ada pada program website.
 -semoga kedepannya dengan belajar menggunkan github ini, kebaikan terus mengalir.
+-saya harap dapat menjadi Web Developer
