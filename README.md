@@ -1,2 +1,2 @@
-# xclove
-XClove untuk membuat rencana program web Cengkeh
+# wpu-resolusi
+Repository untuk menyimpan rencana WPU kedepannya
